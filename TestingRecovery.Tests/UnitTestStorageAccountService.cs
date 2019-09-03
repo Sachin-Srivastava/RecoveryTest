@@ -11,7 +11,7 @@ namespace TestingRecovery.Tests
     public class UnitTestStorageAccountService
     {
         [Fact]
-        public async Task Test1()
+        public void Test1()
         {
             var someOptions = Options.Create(new AppSettings());
             //var azureClient = new AzureClient();

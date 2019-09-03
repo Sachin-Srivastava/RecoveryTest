@@ -4,8 +4,6 @@ using Microsoft.Extensions.Options;
 using TestingRecovery.Common;
 using Newtonsoft.Json;
 using RecoveryTest.DTO;
-using System.Collections.Generic;
-using RecoveryTest.common;
 
 namespace TestingRecovery.AzureService
 {

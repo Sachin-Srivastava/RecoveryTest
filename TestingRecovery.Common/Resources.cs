@@ -1,4 +1,4 @@
-namespace RecoveryTest.common
+namespace TestingRecovery.Common
 {
     public class Resources
     {

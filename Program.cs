@@ -7,8 +7,6 @@ using Microsoft.Extensions.Logging;
 using TestingRecovery.AzureService;
 using TestingRecovery.AzureConnection;
 using RecoveryTest.AzureConnection;
-using System.Net.Http;
-using RecoveryTest.common;
 
 namespace TestingRecovery.Main
 {

@@ -4,8 +4,6 @@ using System.Net.Http;
 using System.Threading.Tasks;
 using Microsoft.Extensions.Options;
 using Newtonsoft.Json;
-using RecoveryTest.AzureConnection;
-using RecoveryTest.common;
 using TestingRecovery.Common;
 
 namespace TestingRecovery.AzureConnection
