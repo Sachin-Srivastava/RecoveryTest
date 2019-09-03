@@ -1,0 +1,22 @@
+C:\Users\ssrivastava\Desktop\Testing Recovery\bin\Debug\netcoreapp2.2\Testing Recovery.deps.json
+C:\Users\ssrivastava\Desktop\Testing Recovery\bin\Debug\netcoreapp2.2\Testing Recovery.runtimeconfig.json
+C:\Users\ssrivastava\Desktop\Testing Recovery\bin\Debug\netcoreapp2.2\Testing Recovery.runtimeconfig.dev.json
+C:\Users\ssrivastava\Desktop\Testing Recovery\bin\Debug\netcoreapp2.2\Testing Recovery.dll
+C:\Users\ssrivastava\Desktop\Testing Recovery\bin\Debug\netcoreapp2.2\Testing Recovery.pdb
+C:\Users\ssrivastava\Desktop\Testing Recovery\obj\Debug\netcoreapp2.2\Testing Recovery.csprojAssemblyReference.cache
+C:\Users\ssrivastava\Desktop\Testing Recovery\obj\Debug\netcoreapp2.2\Testing Recovery.csproj.CoreCompileInputs.cache
+C:\Users\ssrivastava\Desktop\Testing Recovery\obj\Debug\netcoreapp2.2\Testing Recovery.AssemblyInfoInputs.cache
+C:\Users\ssrivastava\Desktop\Testing Recovery\obj\Debug\netcoreapp2.2\Testing Recovery.AssemblyInfo.cs
+C:\Users\ssrivastava\Desktop\Testing Recovery\obj\Debug\netcoreapp2.2\Testing Recovery.dll
+C:\Users\ssrivastava\Desktop\Testing Recovery\obj\Debug\netcoreapp2.2\Testing Recovery.pdb
+C:\Users\ssrivastava\Desktop\RecoveryTest\bin\Debug\netcoreapp2.2\Testing Recovery.deps.json
+C:\Users\ssrivastava\Desktop\RecoveryTest\bin\Debug\netcoreapp2.2\Testing Recovery.runtimeconfig.json
+C:\Users\ssrivastava\Desktop\RecoveryTest\bin\Debug\netcoreapp2.2\Testing Recovery.runtimeconfig.dev.json
+C:\Users\ssrivastava\Desktop\RecoveryTest\bin\Debug\netcoreapp2.2\Testing Recovery.dll
+C:\Users\ssrivastava\Desktop\RecoveryTest\bin\Debug\netcoreapp2.2\Testing Recovery.pdb
+C:\Users\ssrivastava\Desktop\RecoveryTest\obj\Debug\netcoreapp2.2\Testing Recovery.csprojAssemblyReference.cache
+C:\Users\ssrivastava\Desktop\RecoveryTest\obj\Debug\netcoreapp2.2\Testing Recovery.csproj.CoreCompileInputs.cache
+C:\Users\ssrivastava\Desktop\RecoveryTest\obj\Debug\netcoreapp2.2\Testing Recovery.AssemblyInfoInputs.cache
+C:\Users\ssrivastava\Desktop\RecoveryTest\obj\Debug\netcoreapp2.2\Testing Recovery.AssemblyInfo.cs
+C:\Users\ssrivastava\Desktop\RecoveryTest\obj\Debug\netcoreapp2.2\Testing Recovery.dll
+C:\Users\ssrivastava\Desktop\RecoveryTest\obj\Debug\netcoreapp2.2\Testing Recovery.pdb
