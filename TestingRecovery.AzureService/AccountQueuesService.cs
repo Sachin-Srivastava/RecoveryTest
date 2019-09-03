@@ -20,7 +20,7 @@ namespace TestingRecovery.AzureService
         {
             _azureClient = azureClient;
             _config = config.Value;
-            _resourceUrl = resources.GetQueueUrl("ssactivateazure");
+            _resourceUrl = resources.QueueUrl("ssactivateazure");
         }
         public async Task<string> GetAccountQueues()
         {
