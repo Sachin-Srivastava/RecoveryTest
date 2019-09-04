@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ssrivastava\\Desktop\\RecoveryTest\\TestingRecovery.Tests\\TestingRecovery.Tests.csproj": {}
+    "c:\\Users\\ssrivastava\\Desktop\\RecoveryTest\\TestingRecovery.Tests\\TestingRecovery.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ssrivastava\\Desktop\\RecoveryTest\\TestingRecovery.csproj": {
+    "c:\\Users\\ssrivastava\\Desktop\\RecoveryTest\\TestingRecovery.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ssrivastava\\Desktop\\RecoveryTest\\TestingRecovery.csproj",
+        "projectUniqueName": "c:\\Users\\ssrivastava\\Desktop\\RecoveryTest\\TestingRecovery.csproj",
         "projectName": "TestingRecovery",
-        "projectPath": "C:\\Users\\ssrivastava\\Desktop\\RecoveryTest\\TestingRecovery.csproj",
+        "projectPath": "c:\\Users\\ssrivastava\\Desktop\\RecoveryTest\\TestingRecovery.csproj",
         "packagesPath": "C:\\Users\\ssrivastava\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ssrivastava\\Desktop\\RecoveryTest\\obj\\",
+        "outputPath": "c:\\Users\\ssrivastava\\Desktop\\RecoveryTest\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -104,14 +104,14 @@
         }
       }
     },
-    "C:\\Users\\ssrivastava\\Desktop\\RecoveryTest\\TestingRecovery.Tests\\TestingRecovery.Tests.csproj": {
+    "c:\\Users\\ssrivastava\\Desktop\\RecoveryTest\\TestingRecovery.Tests\\TestingRecovery.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ssrivastava\\Desktop\\RecoveryTest\\TestingRecovery.Tests\\TestingRecovery.Tests.csproj",
+        "projectUniqueName": "c:\\Users\\ssrivastava\\Desktop\\RecoveryTest\\TestingRecovery.Tests\\TestingRecovery.Tests.csproj",
         "projectName": "TestingRecovery.Tests",
-        "projectPath": "C:\\Users\\ssrivastava\\Desktop\\RecoveryTest\\TestingRecovery.Tests\\TestingRecovery.Tests.csproj",
+        "projectPath": "c:\\Users\\ssrivastava\\Desktop\\RecoveryTest\\TestingRecovery.Tests\\TestingRecovery.Tests.csproj",
         "packagesPath": "C:\\Users\\ssrivastava\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ssrivastava\\Desktop\\RecoveryTest\\TestingRecovery.Tests\\obj\\",
+        "outputPath": "c:\\Users\\ssrivastava\\Desktop\\RecoveryTest\\TestingRecovery.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -130,8 +130,8 @@
         "frameworks": {
           "netcoreapp2.2": {
             "projectReferences": {
-              "C:\\Users\\ssrivastava\\Desktop\\RecoveryTest\\TestingRecovery.csproj": {
-                "projectPath": "C:\\Users\\ssrivastava\\Desktop\\RecoveryTest\\TestingRecovery.csproj"
+              "c:\\Users\\ssrivastava\\Desktop\\RecoveryTest\\TestingRecovery.csproj": {
+                "projectPath": "c:\\Users\\ssrivastava\\Desktop\\RecoveryTest\\TestingRecovery.csproj"
               }
             }
           }
