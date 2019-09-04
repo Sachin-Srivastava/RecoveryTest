@@ -35,14 +35,14 @@ namespace TestingRecovery.Main
 
             //do the actual work here
             var storageAccountService = serviceProvider.GetService<IStorageAccountService>();
-            var l = await storageAccountService.GetStorageAccounts();
-            foreach(var i in l.storageAccountList)
+            var storage = await storageAccountService.GetStorageAccounts();
+            foreach(var store in storage.accountList)
             {
-                Console.WriteLine(i.name);
+                Console.WriteLine(store.Name);
             }
             var accountQueuesService = serviceProvider.GetService<IAccountQueuesService>();
-            var x = await accountQueuesService.GetAccountQueues();
-            Console.WriteLine(x);
+            var queue = await accountQueuesService.GetAccountQueues();
+            Console.WriteLine(queue);
         }
     }
 }

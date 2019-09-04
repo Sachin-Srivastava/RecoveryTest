@@ -5,18 +5,18 @@ namespace RecoveryTest.DTO
     public class StorageAccount
     {
         [JsonProperty("kind")]
-        public string kind { get; set; }
+        public string Kind { get; set; }
 
         [JsonProperty("id")]
-        public string id { get; set; }
+        public string Id { get; set; }
 
         [JsonProperty("name")]
-        public string name { get; set; }
+        public string Name { get; set; }
         
         [JsonProperty("type")]
-        public string type { get; set; }
+        public string Type { get; set; }
 
         [JsonProperty("location")]
-        public string location { get; set; }
+        public string Location { get; set; }
     }
 }

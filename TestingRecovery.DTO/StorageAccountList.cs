@@ -6,6 +6,6 @@ namespace RecoveryTest.DTO
     public class StorageAccountList
     {
         [JsonProperty("value")]
-        public IList<StorageAccount> storageAccountList;
+        public IList<StorageAccount> accountList {get; set;}
     }
 }

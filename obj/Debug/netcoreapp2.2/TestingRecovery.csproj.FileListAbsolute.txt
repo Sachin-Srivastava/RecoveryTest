@@ -8,3 +8,13 @@ C:\Users\ssrivastava\Desktop\RecoveryTest\obj\Debug\netcoreapp2.2\TestingRecover
 C:\Users\ssrivastava\Desktop\RecoveryTest\obj\Debug\netcoreapp2.2\TestingRecovery.AssemblyInfoInputs.cache
 C:\Users\ssrivastava\Desktop\RecoveryTest\obj\Debug\netcoreapp2.2\TestingRecovery.dll
 C:\Users\ssrivastava\Desktop\RecoveryTest\obj\Debug\netcoreapp2.2\TestingRecovery.pdb
+C:\Users\ssrivastava\RecoveryTest\obj\Debug\netcoreapp2.2\TestingRecovery.csprojAssemblyReference.cache
+C:\Users\ssrivastava\RecoveryTest\obj\Debug\netcoreapp2.2\TestingRecovery.csproj.CoreCompileInputs.cache
+C:\Users\ssrivastava\RecoveryTest\obj\Debug\netcoreapp2.2\TestingRecovery.AssemblyInfoInputs.cache
+C:\Users\ssrivastava\RecoveryTest\obj\Debug\netcoreapp2.2\TestingRecovery.dll
+C:\Users\ssrivastava\RecoveryTest\obj\Debug\netcoreapp2.2\TestingRecovery.pdb
+C:\Users\ssrivastava\RecoveryTest\bin\Debug\netcoreapp2.2\TestingRecovery.deps.json
+C:\Users\ssrivastava\RecoveryTest\bin\Debug\netcoreapp2.2\TestingRecovery.runtimeconfig.json
+C:\Users\ssrivastava\RecoveryTest\bin\Debug\netcoreapp2.2\TestingRecovery.runtimeconfig.dev.json
+C:\Users\ssrivastava\RecoveryTest\bin\Debug\netcoreapp2.2\TestingRecovery.dll
+C:\Users\ssrivastava\RecoveryTest\bin\Debug\netcoreapp2.2\TestingRecovery.pdb

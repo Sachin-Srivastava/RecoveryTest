@@ -2,6 +2,10 @@ using System.Threading.Tasks;
 using RecoveryTest.AzureConnection;
 using Microsoft.Extensions.Options;
 using TestingRecovery.Common;
+using System.Xml.Serialization;
+using RecoveryTest.TestingRecovery.DTO;
+using System.IO;
+using System;
 
 namespace TestingRecovery.AzureService
 {
@@ -20,8 +24,14 @@ namespace TestingRecovery.AzureService
         }
         public async Task<string> GetAccountQueues()
         {
-            var content = await _azureClient.AzureGetResource($"{_resourceUrl}?comp=list", _resourceUrl);
-            //return JsonConvert.DeserializeObject<AccountQueueList>(content);
+            var content = await _azureClient.AzureGetResource($"{_resourceUrl}?comp=list", _resourceUrl);            
+            /*XmlSerializer serializer = new XmlSerializer(typeof(AzureQueueList));
+            AzureQueueList result;
+            using (TextReader reader = new StringReader(content))
+            {
+                 result = (AzureQueueList) serializer.Deserialize(reader);
+            }
+            Console.WriteLine(result);*/
             return content.ToString();
         }
     }
