@@ -23,7 +23,6 @@ namespace TestingRecovery.AzureService
         {
             var content = await _azureClient.AzureGet($"{_resourceUrl}/subscriptions/{_config.SubscriptionId}/providers/Microsoft.Storage/storageAccounts?api-version=2019-04-01", _resourceUrl);
             return JsonConvert.DeserializeObject<StorageAccountList>(content);
-
         }
     }
 }
